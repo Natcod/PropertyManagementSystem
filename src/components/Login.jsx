@@ -21,7 +21,7 @@ function Login() {
                     <h2 className="text-4xl font-bold my-2">Sign in</h2>
                     <p className="my-6 text-sm text-muted-foreground">
                         New owner?{" "}
-                        <Link to="/singup" className="text-blue-600">
+                        <Link to="/signup" className="text-blue-600">
                             Sign Up
                         </Link>
                     </p>
